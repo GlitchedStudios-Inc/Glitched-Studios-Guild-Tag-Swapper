@@ -1,6 +1,7 @@
 # Information
 ### If Not Working: Please Join discord.gg/3XrRFKAus2 And Ping A Staff Member Or Glitched Da Kitty Cat
 ### Also Run Setup.bat first
+### Also Change The Guild Information In The Config.json
 
 # Commands 
 ### gs.start  | This will start the switch if you use gs.stop because it will auto start on first run
