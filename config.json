@@ -1,0 +1,9 @@
+{
+    "token": "YOUR_TOKEN HERE",
+    "Comment1": "Change interval For Delay Or How Fast Its Going",
+    "interval": 10000,
+    "guilds": {
+        "Guild1": "Guild1's ID",
+        "Guild2": "Guild2's ID"
+    }
+}
